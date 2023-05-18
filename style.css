@@ -1,9 +1,14 @@
 body{
-  background-color: white;
+  background-color: #98A6D4;
+  margin: 10% 20%;
+}
+
+.header, .contact, .skills, .experience {
+  border-bottom: 2px solid #FFFFFF
 }
 
 h1 {
-  Color: black;
+  Color: #FFFFFF;
   font-size: 24px;
   font-family: Raleway, Sans-serif;
 }
@@ -13,25 +18,28 @@ h2 {
   font-size: 16px;
   font-family: Raleway, Sans-serif;
 }
-h3{
-    font-size: 12px;
+h3{  
+  Color: #FFFFFF;
+  font-size: 12px;
   font-family: Raleway, Sans-serif;
 }
 
 
 h4,p,ul{
+  Color: #FFFFFF;
   font-size: 10px;
   font-family: Lato, Sans-serif;
 }
 
 h5{
+  Color: #FFFFFF;
   font-size: 12px;
   font-family: Sans-serif;
 }
 h6{
   font-size: 9px;
   font-family: Sans-serif;
-  color: grey;
+  color: #E4E4E4;
 }
 
 
